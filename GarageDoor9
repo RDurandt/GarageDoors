@@ -50,6 +50,7 @@ else:
     Door2PrevStatus = 'Door2 is Closed'
 
 
+
 tel_starttime = 0
 tel_endtime = 0
 tel_lastvol = 0
