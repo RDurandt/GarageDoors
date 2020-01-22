@@ -3,3 +3,9 @@ For Raspberry Pi 1 (or 2, 3 or 4) with GPIOs connected to 2 magentic sensors, 2-
 
 Python - for GPIO pin 3 & 5 (Magnetic switch) monitorring and GPIO 13 & 15 to activate relay
 Time triggered Telegram Bot.
+
+Latest edition adds:
+Added a external IP address lookup
+Added a buzzer to provide some fair warning before the garage door moves.
+Added a change-state message when the garage door opens or closes (changes state)
+Added some inline comments
